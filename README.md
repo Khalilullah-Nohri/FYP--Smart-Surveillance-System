@@ -2,7 +2,7 @@
 
 ## Description
 
-Human face detection in criminal activities has been a challenging task in image processing and pattern recognition. Our proposed system, a surveillance security camera with Raspberry Pi and IoT, utilizes CCTV for real-time human face recognition and detection. It employs Haar-Cascade algorithm in OpenCV using Python for face recognition and detection. The system sends alerts through Twilio application to you as SMS when motion is detected and checks for recognized faces, unlocking a Solenoid lock which is connected inside door lock, if the face is stored in the database.
+Human face detection in criminal activities has been a challenging task in image processing and pattern recognition. Our proposed system, a surveillance security camera with Raspberry Pi and IoT, utilizes CCTV for real-time human face recognition and detection. It employs the Haar-Cascade algorithm in OpenCV using Python for face recognition and detection. The system sends alerts through Twilio application to you as SMS when motion is detected and checks for recognized faces, unlocking a Solenoid lock which is connected inside the door lock, if the face is stored in the database.
 
 ## Features
 
@@ -43,4 +43,4 @@ This project is versatile and can be used for:
 
 ## Screenshots/Demo
 
-[Watch Demo Video]([https://raw.githubusercontent.com/your_username/your_repo/main/path/to/your_video.mp4](https://github.com/Khalilullah-Nohri/FYP--Smart-surveillance-System-/blob/main/Group%2001%20(Presentation%20Vedio).mp4)https://github.com/Khalilullah-Nohri/FYP--Smart-surveillance-System-/blob/main/Group%2001%20(Presentation%20Vedio).mp4)
+[Watch Demo Video](https://github.com/Khalilullah-Nohri/FYP--Smart-surveillance-System-/blob/main/Group%2001%20(Presentation%20Vedio).mp4)
